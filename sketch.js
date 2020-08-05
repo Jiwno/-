@@ -7,7 +7,7 @@ let myColor = "green";
 function preload() {
   model_0 = loadModel('Thinker.obj');
   model_1 = loadModel('unicorn.obj');
-  //model_2 = loadImage('mone.jpg');
+  model_2 = loadModel('tesla.obj');
 }
 
 function setup() {
